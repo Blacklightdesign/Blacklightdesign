@@ -1,4 +1,4 @@
-![GitHub Profile Header](/Images/GitHubProfileHeader.jpg)
+![GitHub Profile Header](./GitHubProfileHeader.jpg)
 ## Hi there 👋 
 I'm a Frontend Web Developer driven by a lifelong passion for IT.
 
