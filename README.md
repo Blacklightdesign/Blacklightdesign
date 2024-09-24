@@ -16,7 +16,7 @@ Most importantly, my wife and son are my greatest inspirations.
 
 I was born and raised in Thuringia, and I've been fortunate enough to visit and live in various places. Along the way, I’ve picked up a lot of inspiration and ideas.
 
-- 🔭 I'm currently working on building a portfolio from my past projects and a few new ideas.
+- 🔭 I'm currently working on building a [portfolio](https://www.blacklightdesign.de/pages/ueber-uns/) from my past projects and a few new ideas.
 - 🌱 I’m currently learning to use Salesforce with React.
 - 💬 Ask me about interesting JavaScript or CSS challenges.
 - 📫 You can reach me [@Blacklight@mastodon.social](https://mastodon.social/@Blacklight)
@@ -32,6 +32,7 @@ While my portfolio is being finalized, you can take a look at some of my recent 
 <a href="./img/sass.svg" title="SASS"><img src="./img/sass.svg" width="64px" alt="SASS" /></a>
 <a href="./img/javascript.svg" title="JavaScript"><img src="./img/javascript.svg" width="64px" alt="JavaScript" /></a>
 <a href="./img/react.svg" title="React"><img src="./img/react.svg" width="64px" alt="React" /></a>
+<a href="./img/nvm.svg" title="Node Version Manager"><img src="./img/nvm.svg" width="64px" alt="Node Version Manager" /></a>
 <a href="./img/visual-studio-code.svg" title="Visual Studio Code"><img src="./img/visual-studio-code.svg" width="64px" alt="Visual Studio Code" /></a>
 <a href="./img/intellij-idea.svg" title="IntelliJ IDEA"><img src="./img/intellij-idea.svg" width="64px" alt="IntelliJ IDEA" /></a>
 </div>
